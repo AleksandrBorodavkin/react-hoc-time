@@ -2,7 +2,7 @@
   "name": "react-hoc-time",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://init220.github.io/react-hoc-highlight/",
+  "homepage": "https://init220.github.io/react-hoc-time/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
