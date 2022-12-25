@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-hoc-highlight/static/css/main.c162786f.css",
-    "main.js": "/react-hoc-highlight/static/js/main.df8b4e90.js",
-    "static/js/787.ecc42ae0.chunk.js": "/react-hoc-highlight/static/js/787.ecc42ae0.chunk.js",
-    "index.html": "/react-hoc-highlight/index.html",
-    "main.c162786f.css.map": "/react-hoc-highlight/static/css/main.c162786f.css.map",
-    "main.df8b4e90.js.map": "/react-hoc-highlight/static/js/main.df8b4e90.js.map",
-    "787.ecc42ae0.chunk.js.map": "/react-hoc-highlight/static/js/787.ecc42ae0.chunk.js.map"
+    "main.css": "/react-hoc-time/static/css/main.c162786f.css",
+    "main.js": "/react-hoc-time/static/js/main.6a6735da.js",
+    "static/js/787.ecc42ae0.chunk.js": "/react-hoc-time/static/js/787.ecc42ae0.chunk.js",
+    "index.html": "/react-hoc-time/index.html",
+    "main.c162786f.css.map": "/react-hoc-time/static/css/main.c162786f.css.map",
+    "main.6a6735da.js.map": "/react-hoc-time/static/js/main.6a6735da.js.map",
+    "787.ecc42ae0.chunk.js.map": "/react-hoc-time/static/js/787.ecc42ae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c162786f.css",
-    "static/js/main.df8b4e90.js"
+    "static/js/main.6a6735da.js"
   ]
 }
