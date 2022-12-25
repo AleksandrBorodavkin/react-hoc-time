@@ -1,29 +1,6 @@
 import React, {useState} from 'react';
-import moment from 'moment';
+import VideoList from "./components/VideoList";
 
-function DateTime(props) {
-    return (
-        <p className="date">{props.date}</p>
-    )
-}
-
-function DateTimePretty(props) {
-  const date = moment(props.date).fromNow();
-  return <DateTime date={date} />
-}
-
-function Video(props) {
-    return (
-        <div className="video">
-            <iframe src={props.url} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            <DateTimePretty date={props.date} />
-        </div>
-    )
-}
-
-function VideoList(props) {
-    return props.list.map(item => <Video url={item.url} date={item.date} />);
-}
 
 export default function App() {
     const [list, setList] = useState([
@@ -54,8 +31,7 @@ export default function App() {
     ]);
 
 
-
     return (
-        <VideoList list={list} />
+        <VideoList list={list}/>
     );
 }
